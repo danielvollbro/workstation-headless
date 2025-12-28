@@ -36,7 +36,6 @@ modules:
 
           # --- Gaming Stack ---
           - com.valvesoftware.Steam
-          - dev.lizardbyte.sunshine
           - net.lutris.Lutris
           - com.heroicgameslauncher.hgl
           - com.github.Matoking.protontricks
